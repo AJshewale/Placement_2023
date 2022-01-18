@@ -1,0 +1,29 @@
+table{
+    border-style: solid;
+    border : "0.5";
+    border-collapse: collapse;
+    margin-top: 2%;
+    /*width: 100%;*/
+}
+td{
+    padding: 20px;
+}
+th{
+    height: 50px;
+}
+body{
+    align-items: center;
+}
+/*.content{
+    max-width: 500px;
+  margin: auto;
+}*/
+button{
+    background-color: #e7e7e7;
+    border-radius: 12px;
+    border: "0";
+    padding: 14px 40px;
+}
+.sunBtn{
+    background-color: #f44336;
+}
